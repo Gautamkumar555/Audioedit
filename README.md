@@ -24,3 +24,24 @@ Here are the steps to cut and move apart and then join the audio as demonstrated
    * Go to "File" -> "Export".
    * Choose the desired audio format and export settings.
 These steps will allow you to cut, move, and join audio clips within Audacity to create the desired arrangement.
+
+
+
+
+Got it! If you need to remove background noise from just a specific part of your audio file, you can use the **Lexis Audio Editor** app on your Android phone. Here’s how:
+
+1. **Install Lexis Audio Editor**: Download and install the app from the Google Play Store.
+
+2. **Open the App**: Launch Lexis Audio Editor and import your audio file.
+
+3. **Zoom In on the Audio Waveform**: Use the zoom feature to focus on the part of the audio where you want to remove the background noise.
+
+4. **Apply Noise Reduction**:
+   - Go to the `Effects` option.
+   - Select `Noise Reduction`.
+   - Adjust the settings to target the specific part of the audio where the background noise is present.
+   - Apply the effect.
+
+5. **Save Your Edited Audio**: Once you’re satisfied with the changes, save the edited audio file.
+
+Would you like more detailed instructions on any of these steps?
